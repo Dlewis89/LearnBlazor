@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sUT8JE79xwuUFlA2mqiaE/LYUiylbVvXNB/yfEUWZFUfa0tQW/xS049bhrwhwvr/eUUS3+4JV+dy9qYdWMovnA==",
+  "success": true,
+  "projectFilePath": "/home/oniiscythe/Documents/Development/LearnBlazor/LearnBlazor.csproj",
+  "expectedPackageFiles": [
+    "/home/oniiscythe/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.7/microsoft.aspnetcore.app.ref.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
