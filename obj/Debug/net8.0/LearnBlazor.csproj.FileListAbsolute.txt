@@ -27,3 +27,4 @@
 /home/oniiscythe/Documents/Development/LearnBlazor/obj/Debug/net8.0/LearnBlazor.pdb
 /home/oniiscythe/Documents/Development/LearnBlazor/obj/Debug/net8.0/LearnBlazor.genruntimeconfig.cache
 /home/oniiscythe/Documents/Development/LearnBlazor/obj/Debug/net8.0/ref/LearnBlazor.dll
+/home/oniiscythe/Documents/Development/LearnBlazor/obj/Debug/net8.0/LearnBlazor.sourcelink.json
